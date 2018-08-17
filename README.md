@@ -7,3 +7,6 @@ for Windows : open Command Prompt and type
               
 for Linux : open terminal and type
               sudo pip3 install numpy
+
+if Program shows error conecting to Gmail SMTP Server than turn on this feature
+https://www.google.com/settings/security/lesssecureapps
